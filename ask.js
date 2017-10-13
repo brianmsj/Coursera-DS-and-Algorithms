@@ -37,3 +37,4 @@ process.stdin.on('data', function(data) {
 })
 
 ask(0)
+ask(1)
